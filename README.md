@@ -1,5 +1,6 @@
 <img src="https://github.com/GustavoDiasSouza/GustavoDiasSouza/blob/main/img/FundoRead.png" min-width="400px" max-width="400px" width="400px" align="right">
 
+
 Olá meu nome é Gustavo Dias Souza, sou Desenvolvedor de Front-End. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
 
 <p align=left>
