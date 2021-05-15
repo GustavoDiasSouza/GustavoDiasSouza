@@ -1,3 +1,5 @@
+<img src="https://github.com/GustavoDiasSouza/GustavoDiasSouza/blob/main/Img/FundoAll.png">
+
 Olá meu nome é Gustavo Dias Souza, sou Desenvolvedor de Front-End. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
 
 <p align=left>
