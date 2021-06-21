@@ -7,7 +7,7 @@ Olá meu nome é Gustavo Dias Souza, sou Desenvolvedor de Front-End. Estou dispo
 </p>
 
 <p align= left>
-💼 Ferramentas: VSCode e GitHub.
+💼 Ferramentas: VSCode, git e GitHub.
 </p>
 
 <p align=left>
