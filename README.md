@@ -3,7 +3,7 @@
 Olá meu nome é Gustavo Dias Souza e sou Desenvolvedor Front-End.
 
 <p align=left>
-🚀 Habilidades: HTML, CSS, JavaScript e PHP.
+🚀 Habilidades: HTML5, CSS3, JavaScript e PHP.
 </p>
 
 <p align= left>
