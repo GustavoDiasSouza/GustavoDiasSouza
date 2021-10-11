@@ -20,4 +20,7 @@ Olá meu nome é Gustavo Dias Souza, sou Desenvolvedor de Front-End. Estou dispo
 
   <a href="https://www.facebook.com/gustavo.souza.ds" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.instagram.com/gustavosouza21_/"/></a>
+  
+  <a href="https://www.linkedin.com/in/gustavo-dias-souza-214449200/">Aui
+  <img></a>
 </p>  
