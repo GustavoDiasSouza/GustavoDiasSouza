@@ -1,6 +1,6 @@
 <img src="https://github.com/GustavoDiasSouza/GustavoDiasSouza/blob/main/Img/FundoRead.png" min-width="300px" max-width="300px" width="300px" align="right">
 
-Olá meu nome é Gustavo Dias Souza, sou Desenvolvedor de Front-End.
+Olá meu nome é Gustavo Dias Souza e sou Desenvolvedor Front-End.
 
 <p align=left>
 🚀 Habilidades: HTML, CSS, JavaScript e PHP.
