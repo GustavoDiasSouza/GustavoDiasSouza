@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/GustavoDiasSouza/GustavoDiasSouza/blob/main/Img/FundoRead.png" />
+<img width="150px" align="right" src="https://github.com/GustavoDiasSouza/GustavoDiasSouza/blob/main/Img/FundoRead.png" />
 
 Olá meu nome é Gustavo Dias Souza e sou Desenvolvedor Front-End.
 
