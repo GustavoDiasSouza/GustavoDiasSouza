@@ -1,15 +1,16 @@
+<img align="right" src="https://github.com/GustavoDiasSouza/GustavoDiasSouza/blob/main/Img/FundoRead.png" />
 
 Olá meu nome é Gustavo Dias Souza e sou Desenvolvedor Front-End.
 
-<p align=left>
+<p align="left">
 🚀 Habilidades: HTML5, CSS3, JavaScript e PHP.
 </p>
 
-<p align= left>
+<p align="left">
 💼 Ferramentas: VSCode, Git e GitHub.
 </p>
 
-<p align=left>
+<p align="left">
 💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem:
 </p>
 
