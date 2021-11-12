@@ -1,5 +1,8 @@
-<img src="https://github.com/GustavoDiasSouza/GustavoDiasSouza/blob/main/Img/FundoRead.png" min-width="300px" max-width="300px" width="300px" align="right">
-
+<div align=right>
+  <p>Gusatvo</p>
+  <p>Gusatasasdao</p>
+  <p>dgfdgdfusatvo</p>
+</div
 Olá meu nome é Gustavo Dias Souza e sou Desenvolvedor Front-End.
 
 <p align=left>
