@@ -1,6 +1,7 @@
 <img width="300px" align="right" src="https://github.com/GustavoDiasSouza/GustavoDiasSouza/blob/main/Img/FundoRead.png" />
-Olá meu nome é Gustavo Dias Souza sou formado no Curso Tecnico em Desenvolvimento de Sistemas do CAVG em Pelotas e estudante da UFPEL no curso de Ciência da Computação.
-
+<p>
+ Olá meu nome é Gustavo Dias Souza sou formado no Curso Tecnico em Desenvolvimento de Sistemas do CAVG em Pelotas e estudante da UFPEL no curso de Ciência da Computação.
+</p>
 
 <p align="left">
 🚀 Conhecimento: HTML, CSS, JavaScript, Java, SQL.
