@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-💼 Principais estudos atualmente: Java, Dark, Flutter, C e SQL.
+💼 Principais estudos atualmente: Java, Dart, Flutter, C e SQL.
 </p>
 
 <p align="left">
