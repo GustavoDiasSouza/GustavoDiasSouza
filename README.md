@@ -1,16 +1,12 @@
 <img width="300px" align="right" src="https://github.com/GustavoDiasSouza/GustavoDiasSouza/blob/main/Img/FundoRead.png" />
-Olá meu nome é Gustavo Dias Souza e sou Desenvolvedor Front-End.
+Olá meu nome é Gustavo Dias Souza sou formado no Curso Tecnico em Desenvolvimento de Sistemas do CAVG em Pelotas e estudante da UFPEL no curso de Ciência da Computação.
 
 <p align="left">
-🚀 Habilidades: HTML5, CSS3, JavaScript e PHP.
+🚀 Conhecimento: HTML, CSS, JavaScript, Java, SQL.
 </p>
 
 <p align="left">
-💼 Ferramentas: VSCode, Git e GitHub.
-</p>
-
-<p align="left">
-💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem:
+💼 Principais estudos atualmente: Java, Dark, Flutter, C e SQL.
 </p>
 
 <p align="left">
