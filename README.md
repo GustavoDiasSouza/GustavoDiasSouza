@@ -1,6 +1,5 @@
 ## Oi! sou Gustavo Souza
-Atualmente formado no Tecnico em Desenvolvimento de Sistemas e estudante do curso de Ciência da Computação, apaixonado por tecnologia e sempre na jornada de aprender do Front ao Back-end.
-
+Atualmente formado no curso Tecnico em Desenvolvimento de Sistemas e estudante do curso de Ciência da Computação, apaixonado por tecnologia e sempre na jornada de aprender o máximo possível.
 
 <div align="center">
   <br>
@@ -24,10 +23,6 @@ Atualmente formado no Tecnico em Desenvolvimento de Sistemas e estudante do curs
 ##
 <div> 
   <a href="https://www.linkedin.com/in/gustavo-dias-souza-214449200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-
-
 
 ## Snake Commit 
 ![Snake animation](https://github.com/GustavoDiasSouza/GustavoDiasSouza/blob/output/github-contribution-grid-snake.svg)
