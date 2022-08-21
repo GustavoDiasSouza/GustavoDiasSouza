@@ -10,5 +10,5 @@ Atualmente formado no Tecnico em Desenvolvimento de Sistemas e estudante do curs
 </div>
 
 ## Snake Commit 
-![GitHub Snake dark](https://github.com/GustavoDiasSouza/GustavoDiasSouza/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/GustavoDiasSouza/GustavoDiasSouza/blob/output/github-contribution-grid-snake.svg)
 
