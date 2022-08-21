@@ -9,5 +9,5 @@ Atualmente formado no Tecnico em Desenvolvimento de Sistemas e estudante do curs
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDiasSouza&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-
-![Snake animation](https://github.com/GustavoDiasSouza/GustavoDiasSouza/blob/output/github-contribution-grid-snake.svg)
+## Snake Commit 
+![snake gif](https://github.com/GustavoDiasSouza/GustavoDiasSouza/blob/output/github-contribution-grid-snake.gif)
