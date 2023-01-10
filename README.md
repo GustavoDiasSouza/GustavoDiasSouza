@@ -8,6 +8,7 @@ Atualmente formado no curso Tecnico em Desenvolvimento de Sistemas e estudante d
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDiasSouza&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
+## Linguagens mais usadas
 <div style="display: inline_block"><br>
     <br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,10 +21,15 @@ Atualmente formado no curso Tecnico em Desenvolvimento de Sistemas e estudante d
 
 </div>
 
-## Linguagens mais usadas
+## 
 <div> 
   <a href="https://www.linkedin.com/in/gustavo-dias-souza-214449200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+  
+  
+  
+  
+  
 <!-- ## Snake Commit 
 ![Snake animation](https://github.com/GustavoDiasSouza/GustavoDiasSouza/blob/output/github-contribution-grid-snake.svg)
 </div> -->
