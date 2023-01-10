@@ -19,15 +19,16 @@ Atualmente formado no curso Tecnico em Desenvolvimento de Sistemas e estudante d
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 
-## 
+## Banco De Dados mais usados
+## IDE's
+  
+##  
 <div> 
   <a href="https://www.linkedin.com/in/gustavo-dias-souza-214449200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  
-  
+</div>
   
   
   
 <!-- ## Snake Commit 
 ![Snake animation](https://github.com/GustavoDiasSouza/GustavoDiasSouza/blob/output/github-contribution-grid-snake.svg)
-</div> -->
+ -->
