@@ -1,5 +1,5 @@
-## Oi! sou Gustavo Souza
-Atualmente formado no curso Tecnico em Desenvolvimento de Sistemas e estudante do curso de Ciência da Computação, apaixonado por tecnologia e sempre na jornada de aprender o máximo possível.
+## Olá! sou Gustavo Souza
+Atualmente formado no curso Tecnico em Desenvolvimento de Sistemas e estudante do curso de Ciência da Computação, atuando em projetos java constantemente, apaixonado por tecnologia e sempre na jornada de aprender o máximo possível.
 
 <div align="center">
     <br>
