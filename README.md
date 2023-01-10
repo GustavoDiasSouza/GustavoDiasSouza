@@ -20,11 +20,16 @@ Atualmente formado no curso Tecnico em Desenvolvimento de Sistemas e estudante d
 </div>
 
 ## Banco De Dados mais usados
-  <div style="display: inline_block">
+<div style="display: inline_block">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 </div>
+  
 ## IDE's e Conhecimentos extras
+<div style="display: inline_block">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+</div>
   
 ## Redes Sociais  
 <div> 
