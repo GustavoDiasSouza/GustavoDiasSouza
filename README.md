@@ -20,9 +20,13 @@ Atualmente formado no curso Tecnico em Desenvolvimento de Sistemas e estudante d
 </div>
 
 ## Banco De Dados mais usados
-## IDE's
+  <div style="display: inline_block">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+</div>
+## IDE's e Conhecimentos extras
   
-##  
+## Redes Sociais  
 <div> 
   <a href="https://www.linkedin.com/in/gustavo-dias-souza-214449200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
